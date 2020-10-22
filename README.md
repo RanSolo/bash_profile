@@ -26,6 +26,9 @@ source ~/.profile.2
 ```
 
 ## Usage
-```sh b``` in the command line runs ```bash cd .. ```
-```sh dps ``` in the commmandline runs ```sh docker ps```
+``` b``` 
+in the command line runs 
+``` cd .. ```
+
+``` dps``` in the commmandline runs ``` docker ps```
 
