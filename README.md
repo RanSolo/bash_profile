@@ -1,7 +1,7 @@
 # bash_profile
 So I can easily wget my bash profile to any docker container or machine while doing devops or update a new work computer easliy.
 
-## Install
+## Install manual
 
 - ssh into your droplet or ec2 instance
 - wget the file to your server
@@ -24,6 +24,9 @@ Add these lines to .profile
 source ~/.profile.1
 source ~/.profile.2
 ```
+
+## Install with jenkinsfile
+- todo
 
 ## Usage
 ``` b``` 
