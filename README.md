@@ -1,2 +1,2 @@
 # bash_profile
-someplace to easily wget my bash profile to any container or instance
+I can easily wget my bash profile to any container or instance while doing devops.
